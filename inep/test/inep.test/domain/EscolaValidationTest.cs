@@ -2,7 +2,7 @@
 
 namespace inep.test
 {
-    public class Class1
+    public class EscolaValidationTest
     {
         // teste
     }
