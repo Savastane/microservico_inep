@@ -1,0 +1,15 @@
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.csprojAssemblyReference.cache
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.AssemblyInfoInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.AssemblyInfo.cs
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.csproj.CoreCompileInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\inep.repository.reven.deps.json
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\inep.repository.reven.dll
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\ref\inep.repository.reven.dll
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\inep.repository.reven.pdb
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\inep.domain.dll
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\bin\Debug\net5.0\inep.domain.pdb
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.csproj.CopyComplete
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.dll
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\ref\inep.repository.reven.dll
+D:\Projeto\api\organizer.one\micro-services\inep.repository.reven\obj\Debug\net5.0\inep.repository.reven.pdb

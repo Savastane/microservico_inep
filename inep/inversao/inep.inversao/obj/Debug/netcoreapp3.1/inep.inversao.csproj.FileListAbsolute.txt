@@ -1,0 +1,9 @@
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\bin\Debug\netcoreapp3.1\inep.inversao.deps.json
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\bin\Debug\netcoreapp3.1\inep.inversao.dll
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\bin\Debug\netcoreapp3.1\inep.inversao.pdb
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.csprojAssemblyReference.cache
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.AssemblyInfoInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.AssemblyInfo.cs
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.csproj.CoreCompileInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.dll
+D:\Projeto\api\organizer.one\micro-services\inep\inversao\inep.inversao\obj\Debug\netcoreapp3.1\inep.inversao.pdb

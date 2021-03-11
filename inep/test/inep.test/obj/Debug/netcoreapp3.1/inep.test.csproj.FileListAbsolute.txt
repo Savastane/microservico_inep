@@ -1,0 +1,8 @@
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\bin\Debug\netcoreapp3.1\inep.test.deps.json
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\bin\Debug\netcoreapp3.1\inep.test.dll
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\bin\Debug\netcoreapp3.1\inep.test.pdb
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\obj\Debug\netcoreapp3.1\inep.test.AssemblyInfoInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\obj\Debug\netcoreapp3.1\inep.test.AssemblyInfo.cs
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\obj\Debug\netcoreapp3.1\inep.test.csproj.CoreCompileInputs.cache
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\obj\Debug\netcoreapp3.1\inep.test.dll
+D:\Projeto\api\organizer.one\micro-services\inep\test\inep.test\obj\Debug\netcoreapp3.1\inep.test.pdb

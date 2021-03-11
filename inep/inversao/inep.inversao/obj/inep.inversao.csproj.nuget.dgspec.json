@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\inversao\\inep.inversao\\inep.inversao.csproj": {}
+  },
+  "projects": {
+    "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj",
+        "projectName": "inep.domain",
+        "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj",
+        "packagesPath": "C:\\Users\\savastante\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\savastante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\inep.repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\inep.repository.csproj",
+        "projectName": "inep.repository",
+        "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\inep.repository.csproj",
+        "packagesPath": "C:\\Users\\savastante\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\savastante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj": {
+                "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RavenDB.Client": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\inep.application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\inep.application.csproj",
+        "projectName": "inep.application",
+        "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\inep.application.csproj",
+        "packagesPath": "C:\\Users\\savastante\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\savastante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj": {
+                "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\inversao\\inep.inversao\\inep.inversao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\inversao\\inep.inversao\\inep.inversao.csproj",
+        "projectName": "inep.inversao",
+        "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\inversao\\inep.inversao\\inep.inversao.csproj",
+        "packagesPath": "C:\\Users\\savastante\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\inversao\\inep.inversao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\savastante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj": {
+                "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.domain\\inep.domain.csproj"
+              },
+              "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\inep.repository.csproj": {
+                "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep.repository.reven\\inep.repository.csproj"
+              },
+              "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\inep.application.csproj": {
+                "projectPath": "D:\\Projeto\\api\\organizer.one\\micro-services\\inep\\application\\inep.application\\inep.application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

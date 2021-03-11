@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiZICPiKJ7IozX5TywXiLnXIPiE7orNcVox3tXcK1f7j6pYVN5Ok59C+PFM1S0Qy7p0YULXDwoRNQ/nOdXvFng==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto\\api\\organizer.one\\micro-services\\censo\\inep\\domain\\inep.domain\\inep.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\savastante\\.nuget\\packages\\flunt\\2.0.1\\flunt.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
