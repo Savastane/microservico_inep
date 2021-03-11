@@ -4,5 +4,6 @@ namespace inep.test
 {
     public class Class1
     {
+        // teste
     }
 }
